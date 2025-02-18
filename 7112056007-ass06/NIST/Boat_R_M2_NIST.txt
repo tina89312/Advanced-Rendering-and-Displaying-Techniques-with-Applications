@@ -1,0 +1,50 @@
+Test Data File:D:/中興大學/碩一下/高等成像顯示技術與應用/week9/作業/7112056007-ass06/binar/Boat_R_M2.txt
+
+
+Type of Test                                      	P-Value             	Conclusion
+01. Frequency (Monobit) Test                      	1.2151766191009204e-150	Non-Random
+02. Frequency Test within a Block                 	0.0                 	Non-Random
+03. Runs Test                                     	0.0                 	Non-Random
+04. Test for the Longest Run of Ones in a Block   	4.40038449436048e-220	Non-Random
+05. Binary Matrix Rank Test                       	0.0                 	Non-Random
+06. Discrete Fourier Transform (Spectral) Test    	0.0                 	Non-Random
+07. Non-overlapping Template Matching Test        	4.683366949007657e-249	Non-Random
+08. Overlapping Template Matching Test            	0.0                 	Non-Random
+09. Maurer's "Universal Statistical" Test         	0.0                 	Non-Random
+10. Linear Complexity Test                        	0.7905715467153321  	Random
+11. Serial Test:
+													0.0                 	Non-Random
+													0.0                 	Non-Random
+12. Approximate Entropy Test                      	0.0                 	Non-Random
+13. Cumulative Sums Test (Forward)                	1.2942883631998802e-151	Non-Random
+14. Cumulative Sums Test (Backward)               	4.851617645046762e-264	Non-Random
+15. Random Excursions Test:
+				State     	Chi Squared         	P-Value             	Conclusion
+				-4        	2.4140380104780905  	0.789381766190718   	Random
+				-3        	4.235957894736842   	0.5159678745056567  	Random
+				-2        	4.473034437946719   	0.48349942495386733 	Random
+				-1        	4.0                 	0.5494159513527803  	Random
+				+1        	12.105263157894738  	0.03337355540418311 	Random
+				+2        	4.0168940870695256  	0.5469861870435561  	Random
+				+3        	10.59141052631579   	0.060110696549129566	Random
+				+4        	2.698042482299042   	0.7464178148135362  	Random
+16. Random Excursions Variant Test:
+				State     	COUNTS              	P-Value             	Conclusion
+				-9.0      	32                  	0.8674294827572279  	Random
+				-8.0      	29                  	0.7898102708604818  	Random
+				-7.0      	23                  	0.6332100474775773  	Random
+				-6.0      	23                  	0.6039100879173571  	Random
+				-5.0      	23                  	0.566279574045329   	Random
+				-4.0      	17                  	0.36257708508277386 	Random
+				-3.0      	14                  	0.21825778503978344 	Random
+				-2.0      	17                  	0.164298527366873   	Random
+				-1.0      	24                  	0.10829365589900902 	Random
+				+1.0      	58                  	0.021781462791119498	Random
+				+2.0      	72                  	0.024340920043991576	Random
+				+3.0      	79                  	0.03544343048534939 	Random
+				+4.0      	68                  	0.19337316310500352 	Random
+				+5.0      	60                  	0.40024092809564105 	Random
+				+6.0      	61                  	0.42633920535257874 	Random
+				+7.0      	53                  	0.6332100474775773  	Random
+				+8.0      	44                  	0.8589549227374824  	Random
+				+9.0      	36                  	0.9556274127119335  	Random

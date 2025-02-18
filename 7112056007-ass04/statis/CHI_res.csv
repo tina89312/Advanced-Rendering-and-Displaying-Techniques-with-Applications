@@ -1,0 +1,6 @@
+CHI,,Cipher,,,,,Results,,
+Image,Type,Red,Green,Blue,alpha,chi value,Red,Green,Blue
+Baboon.png,color,258.2102864583338,253.84049479166717,267.73046875000057,0.05,293.248,Success,Success,Success
+kodim07.png,color,228.30078124999972,279.3190104166665,290.5668402777779,0.05,293.248,Success,Success,Success
+kodim17.png,color,276.84939236111103,254.40494791666652,250.85590277777766,0.05,293.248,Success,Success,Success
+Lena.png,color,238.84375000000063,252.36328125000088,232.1627604166672,0.05,293.248,Success,Success,Success

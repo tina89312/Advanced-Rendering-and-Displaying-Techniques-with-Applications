@@ -1,0 +1,43 @@
+Test Data File:D:/中興大學/碩一下/高等成像顯示技術與應用/week9/作業/7112056007-ass06/binar/Baboon_B_M2.txt
+
+
+Type of Test                                      	P-Value             	Conclusion
+01. Frequency (Monobit) Test                      	8.276368009166938e-66	Non-Random
+02. Frequency Test within a Block                 	0.0                 	Non-Random
+03. Runs Test                                     	0.0                 	Non-Random
+04. Test for the Longest Run of Ones in a Block   	2.1153211780762766e-210	Non-Random
+05. Binary Matrix Rank Test                       	1.6792877657159516e-49	Non-Random
+06. Discrete Fourier Transform (Spectral) Test    	0.0                 	Non-Random
+07. Non-overlapping Template Matching Test        	1.8018502239254474e-121	Non-Random
+08. Overlapping Template Matching Test            	0.0                 	Non-Random
+09. Maurer's "Universal Statistical" Test         	2.663160994190444e-100	Non-Random
+10. Linear Complexity Test                        	0.37220159134373065 	Random
+11. Serial Test:
+													0.0                 	Non-Random
+													0.0                 	Non-Random
+12. Approximate Entropy Test                      	0.0                 	Non-Random
+13. Cumulative Sums Test (Forward)                	4.8060788953222444e-260	Non-Random
+14. Cumulative Sums Test (Backward)               	2.6100490526177086e-67	Non-Random
+15. Random Excursions Test:
+				State     	Chi Squared         	P-Value             	Conclusion
+				-4        	1.3866722199083714  	0.9257656183607624  	Random
+				-3        	27.24832            	5.102910209291571e-05	Non-Random
+				-2        	15.661728395061727  	0.007879240884178287	Non-Random
+				-1        	9.0                 	0.1090641579497725  	Random
+				+1        	3.0                 	0.6999858358786277  	Random
+				+2        	2.466666666666667   	0.7815065560541381  	Random
+				+3        	1.0                 	0.9625657732472964  	Random
+				+4        	0.7142857142857143  	0.9821754508742055  	Random
+16. Random Excursions Variant Test:
+				State     	COUNTS              	P-Value             	Conclusion
+				-9.0      	9                   	0.7590062685283971  	Random
+				-8.0      	5                   	1.0                 	Random
+				-7.0      	2                   	0.7924600886080352  	Random
+				-6.0      	2                   	0.774848422162878   	Random
+				-5.0      	3                   	0.8330288937195214  	Random
+				-4.0      	5                   	1.0                 	Random
+				-3.0      	8                   	0.6713732405408726  	Random
+				-2.0      	10                  	0.3613104285261789  	Random
+				-1.0      	9                   	0.2059032107320684  	Random
+				+1.0      	2                   	0.34278171114791145 	Random
+				+2.0      	1                   	0.4652088184521418  	Random

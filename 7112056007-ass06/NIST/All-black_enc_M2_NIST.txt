@@ -1,0 +1,50 @@
+Test Data File:D:/中興大學/碩一下/高等成像顯示技術與應用/week9/作業/7112056007-ass06/binar/All-black_enc_M2.txt
+
+
+Type of Test                                      	P-Value             	Conclusion
+01. Frequency (Monobit) Test                      	0.4814327736088828  	Random
+02. Frequency Test within a Block                 	0.5382292756570903  	Random
+03. Runs Test                                     	0.9740767992667447  	Random
+04. Test for the Longest Run of Ones in a Block   	0.5707522387538726  	Random
+05. Binary Matrix Rank Test                       	0.34510052091437854 	Random
+06. Discrete Fourier Transform (Spectral) Test    	0.497093147294315   	Random
+07. Non-overlapping Template Matching Test        	0.042345275143110025	Random
+08. Overlapping Template Matching Test            	0.1439315185961823  	Random
+09. Maurer's "Universal Statistical" Test         	0.4699857649710917  	Random
+10. Linear Complexity Test                        	0.018091271604678345	Random
+11. Serial Test:
+													0.3038317213499779  	Random
+													0.6266166227964033  	Random
+12. Approximate Entropy Test                      	0.11250413165449367 	Random
+13. Cumulative Sums Test (Forward)                	0.7477139885100346  	Random
+14. Cumulative Sums Test (Backward)               	0.5939558505290836  	Random
+15. Random Excursions Test:
+				State     	Chi Squared         	P-Value             	Conclusion
+				-4        	1.781997985991826   	0.8784117675675976  	Random
+				-3        	2.1233124215809243  	0.8318327591713548  	Random
+				-2        	8.709884288303359   	0.12121061715003802 	Random
+				-1        	2.0627352572145545  	0.8403981077445325  	Random
+				+1        	1.834378920953576   	0.8715542476958663  	Random
+				+2        	7.298697275276113   	0.19935661471585253 	Random
+				+3        	12.783702885821828  	0.02549225450782938 	Random
+				+4        	10.94109470280315   	0.05256049171882613 	Random
+16. Random Excursions Variant Test:
+				State     	COUNTS              	P-Value             	Conclusion
+				-9.0      	1947                	0.12943825824126343 	Random
+				-8.0      	1851                	0.23989679249070017 	Random
+				-7.0      	1772                	0.38192345199534006 	Random
+				-6.0      	1759                	0.37826013531738456 	Random
+				-5.0      	1730                	0.42203569990649126 	Random
+				-4.0      	1712                	0.4295843473290938  	Random
+				-3.0      	1592                	0.9873611448894409  	Random
+				-2.0      	1552                	0.6675836142796441  	Random
+				-1.0      	1611                	0.7633493377001737  	Random
+				+1.0      	1596                	0.9717433878981075  	Random
+				+2.0      	1646                	0.594919459623269   	Random
+				+3.0      	1640                	0.7155998623724245  	Random
+				+4.0      	1652                	0.6978255093739929  	Random
+				+5.0      	1750                	0.3570675252292528  	Random
+				+6.0      	1783                	0.3128463435909533  	Random
+				+7.0      	1759                	0.41765276585213407 	Random
+				+8.0      	1739                	0.5072819712258736  	Random
+				+9.0      	1713                	0.6092336826507363  	Random

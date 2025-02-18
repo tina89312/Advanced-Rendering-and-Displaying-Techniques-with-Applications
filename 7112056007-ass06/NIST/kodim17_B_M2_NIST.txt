@@ -1,0 +1,50 @@
+Test Data File:D:/中興大學/碩一下/高等成像顯示技術與應用/week9/作業/7112056007-ass06/binar/kodim17_B_M2.txt
+
+
+Type of Test                                      	P-Value             	Conclusion
+01. Frequency (Monobit) Test                      	0.0                 	Non-Random
+02. Frequency Test within a Block                 	0.0                 	Non-Random
+03. Runs Test                                     	0.0                 	Non-Random
+04. Test for the Longest Run of Ones in a Block   	9.902605693855778e-192	Non-Random
+05. Binary Matrix Rank Test                       	0.0                 	Non-Random
+06. Discrete Fourier Transform (Spectral) Test    	0.0                 	Non-Random
+07. Non-overlapping Template Matching Test        	0.0                 	Non-Random
+08. Overlapping Template Matching Test            	0.0                 	Non-Random
+09. Maurer's "Universal Statistical" Test         	0.0                 	Non-Random
+10. Linear Complexity Test                        	0.017346113849551002	Random
+11. Serial Test:
+													0.0                 	Non-Random
+													0.0                 	Non-Random
+12. Approximate Entropy Test                      	0.0                 	Non-Random
+13. Cumulative Sums Test (Forward)                	0.0                 	Non-Random
+14. Cumulative Sums Test (Backward)               	0.0                 	Non-Random
+15. Random Excursions Test:
+				State     	Chi Squared         	P-Value             	Conclusion
+				-4        	217.48147945648986  	5.145479896248889e-45	Non-Random
+				-3        	306.0444540540541   	5.023853218691941e-64	Non-Random
+				-2        	2099.453294564406   	0.0                 	Non-Random
+				-1        	850.0720720720722   	1.6971848219789864e-181	Non-Random
+				+1        	512.7541827541827   	1.409499795012737e-108	Non-Random
+				+2        	512.7026391470837   	1.4460800540202789e-108	Non-Random
+				+3        	306.0388942084942   	5.037702185548648e-64	Non-Random
+				+4        	217.48736289094472  	5.130571871514172e-45	Non-Random
+16. Random Excursions Variant Test:
+				State     	COUNTS              	P-Value             	Conclusion
+				-9.0      	40                  	4.500299810393047e-11	Non-Random
+				-8.0      	9                   	8.334482840671122e-13	Non-Random
+				-7.0      	11                  	1.6370861720229985e-14	Non-Random
+				-6.0      	15                  	8.546148131111909e-17	Non-Random
+				-5.0      	14                  	3.326745774680431e-20	Non-Random
+				-4.0      	12                  	1.4003285959109008e-25	Non-Random
+				-3.0      	13                  	4.213141289123116e-35	Non-Random
+				-2.0      	526                 	1.8175493656974376e-26	Non-Random
+				-1.0      	1553                	0.9856887928559132  	Random
+				+1.0      	526                 	6.31518425262385e-76	Non-Random
+				+2.0      	10                  	1.502351016312343e-57	Non-Random
+				+3.0      	7                   	2.3122766329368956e-35	Non-Random
+				+4.0      	7                   	9.787946600485854e-26	Non-Random
+				+5.0      	10                  	2.6616654871981926e-20	Non-Random
+				+6.0      	9                   	6.495261743661205e-17	Non-Random
+				+7.0      	5                   	1.2963816561063597e-14	Non-Random
+				+8.0      	5                   	7.280322846980836e-13	Non-Random
+				+9.0      	6                   	1.6448349401737586e-11	Non-Random

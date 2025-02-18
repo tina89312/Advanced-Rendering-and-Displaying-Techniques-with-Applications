@@ -1,0 +1,50 @@
+Test Data File:D:/中興大學/碩一下/高等成像顯示技術與應用/week9/作業/7112056007-ass06/binar/Ruler_M2.txt
+
+
+Type of Test                                      	P-Value             	Conclusion
+01. Frequency (Monobit) Test                      	0.0                 	Non-Random
+02. Frequency Test within a Block                 	0.0                 	Non-Random
+03. Runs Test                                     	0.0                 	Non-Random
+04. Test for the Longest Run of Ones in a Block   	4.40038449436048e-220	Non-Random
+05. Binary Matrix Rank Test                       	0.0                 	Non-Random
+06. Discrete Fourier Transform (Spectral) Test    	0.0                 	Non-Random
+07. Non-overlapping Template Matching Test        	0.0                 	Non-Random
+08. Overlapping Template Matching Test            	0.0                 	Non-Random
+09. Maurer's "Universal Statistical" Test         	0.0                 	Non-Random
+10. Linear Complexity Test                        	0.0                 	Non-Random
+11. Serial Test:
+													0.0                 	Non-Random
+													0.0                 	Non-Random
+12. Approximate Entropy Test                      	0.0                 	Non-Random
+13. Cumulative Sums Test (Forward)                	0.0                 	Non-Random
+14. Cumulative Sums Test (Backward)               	0.0                 	Non-Random
+15. Random Excursions Test:
+				State     	Chi Squared         	P-Value             	Conclusion
+				-4        	40.367346938775505  	1.259114344723498e-07	Non-Random
+				-3        	24.51999999999999   	0.00017243812359741325	Non-Random
+				-2        	9.333333333333332   	0.09648475947119867 	Random
+				-1        	3.0                 	0.6999858358786277  	Random
+				+1        	1.0                 	0.9625657732472964  	Random
+				+2        	9.333333333333332   	0.09648475947119867 	Random
+				+3        	20.2                	0.0011461968894336736	Non-Random
+				+4        	30.571428571428573  	1.138085401980086e-05	Non-Random
+16. Random Excursions Variant Test:
+				State     	COUNTS              	P-Value             	Conclusion
+				-9.0      	3                   	0.9034789137192296  	Random
+				-8.0      	2                   	1.0                 	Random
+				-7.0      	2                   	1.0                 	Random
+				-6.0      	2                   	1.0                 	Random
+				-5.0      	2                   	1.0                 	Random
+				-4.0      	3                   	0.8501067391385259  	Random
+				-3.0      	3                   	0.8230632737581215  	Random
+				-2.0      	2                   	1.0                 	Random
+				-1.0      	2                   	1.0                 	Random
+				+1.0      	1                   	0.6170750774519739  	Random
+				+2.0      	2                   	1.0                 	Random
+				+3.0      	2                   	1.0                 	Random
+				+4.0      	1                   	0.8501067391385259  	Random
+				+5.0      	1                   	0.8676323347781927  	Random
+				+6.0      	1                   	0.8801684549067255  	Random
+				+7.0      	1                   	0.8897069355331012  	Random
+				+8.0      	2                   	1.0                 	Random
+				+9.0      	2                   	1.0                 	Random
